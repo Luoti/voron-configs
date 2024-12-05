@@ -2,3 +2,4 @@ moonraker.secrets
 printer-*_*.cfg
 mmu-*
 *.bkp
+mmu/mmu_vars.cfg
